@@ -7,5 +7,12 @@
 - 💬 I speak Chinese, English, Japanese and Korean
 
 ## Connect with me
-[<i class="fas fa-gamepad"></i>](https://www.yuan-cong.com)
-[<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/yuancong-liu/)
+[<img align="left" alt="YUANCONG" width="22px" src="img/gamepad-solid.svg">][website]
+[<img align="left" alt="YUANCONG" width="22px" src="img/linkedin-brands.svg">][linkedin]
+[<img align="left" alt="YUANCONG" width="22px" src="img/youtube-brands.svg">][youtube]
+[<img align="left" alt="YUANCONG" width="22px" src="img/envelope-solid.svg">][mail]
+
+[website]: https://www.yuan-cong.com
+[linkedin]: https://www.linkedin.com/in/yuancong-liu/
+[youtube]: https://www.youtube.com/channel/UCbTbqyNbV_T_jhdRMSCf5Og
+[mail]: mailto:yuanc129.liu@yahoo.com
