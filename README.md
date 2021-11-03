@@ -16,3 +16,7 @@
 [linkedin]: https://www.linkedin.com/in/yuancong-liu/
 [youtube]: https://www.youtube.com/channel/UCbTbqyNbV_T_jhdRMSCf5Og
 [mail]: mailto:yuanc129.liu@yahoo.com
+
+## Latest blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
