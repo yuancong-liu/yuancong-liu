@@ -1,6 +1,6 @@
 # Hi! I'm YUANCONG 🍟
 
-[<img align="center" alt="YUANCONG" width="100%" src="img/title.png"][website]
+[<img align="center" alt="YUANCONG" width="100%" src="img/title.png">][website]
 
 ## About me
 - 🎓 I'm currently a computing science postgraduate student at University of Glasgow
