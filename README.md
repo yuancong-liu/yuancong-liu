@@ -9,8 +9,8 @@
 - 💬 I speak Chinese, English, Japanese and Korean
 
 ## Latest blog posts
-<!-- BLOG-POST-LIST: START -->
-<!-- BLOG-POST-LIST: END -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ## Connect with me
 [<img align="left" alt="YUANCONG" width="22px" src="img/gamepad-solid.svg">][website]
