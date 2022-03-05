@@ -2,11 +2,11 @@ name: Blog Posts
 
 on:
   schedule:
-    - cron: "0/5 * * * *"
+    - cron: '0/5 * * * *'
     
 jobs:
   update-readme-with-blog:
-    name: Update blog posts
+    name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
