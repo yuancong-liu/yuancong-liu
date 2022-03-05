@@ -12,7 +12,7 @@
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Note | 在WebMvcConfiguration介面中配置過濾器（Filter）](https://blog.yuan-cong.com/2022/03/05/FilterInWebMvcConfig/)
-- [講一講日本考學和求職的心路歷程](https://blog.yuan-cong.com/2022/03/05/BeforeLifeInJapan/)
+- [文 | 講一講日本考學和求職的心路歷程](https://blog.yuan-cong.com/2022/03/05/BeforeLifeInJapan/)
 - [Note | cron表達式](https://blog.yuan-cong.com/2022/02/26/Note-cron/)
 - [Note | 用Spring Boot和Thymeleaf製作Todo系統 &lt;#1&gt;](https://blog.yuan-cong.com/2022/02/16/TodoWithSpringBootAndThymeleaf/)
 - [Note | Spring Boot Message 配置問題](https://blog.yuan-cong.com/2022/02/16/MessagesInSpringBoot/)
