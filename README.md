@@ -3,9 +3,9 @@
 [<img align="center" alt="YUANCONG" width="100%" src="img/title-image.png">][website]
 
 ## About me
-- 🗼 I'm an incoming engineer of [teamLab][teamlab]
+- 🗼 I'm an engineer working at [teamLab][teamlab]
 - 🎓 I graduated from [University of Glasgow][uofg]
-- 💻 I'm currently working on Java and Swift
+- 💻 I'm currently working on Front-end knowledge
 - 🎬 I'm a big fan of horror movies
 - 💬 I speak Chinese, English, Japanese and Korean
 
