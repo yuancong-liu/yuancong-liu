@@ -11,11 +11,11 @@
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Note | 關於本機IP訪問出現CORS跨域錯誤的問題](https://blog.yuan-cong.com/2022/04/25/CorsError/)
+- [文 | 日本日記 &lt;#01&gt;](https://blog.yuan-cong.com/2022/04/15/JapanDiaryp1/)
 - [Note | Spring Boot插入外部CSS樣式表](https://blog.yuan-cong.com/2022/03/09/InsertCss/)
 - [Note | 在WebMvcConfiguration介面中配置過濾器（Filter）](https://blog.yuan-cong.com/2022/03/05/FilterInWebMvcConfig/)
 - [文 | 講一講日本考學和求職的心路歷程](https://blog.yuan-cong.com/2022/03/05/BeforeLifeInJapan/)
-- [Note | cron表達式](https://blog.yuan-cong.com/2022/02/26/Note-cron/)
-- [Note | 用Spring Boot和Thymeleaf製作Todo系統 &lt;#1&gt;](https://blog.yuan-cong.com/2022/02/16/TodoWithSpringBootAndThymeleaf/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect with me
