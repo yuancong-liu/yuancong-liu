@@ -11,6 +11,11 @@
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Note | 為這個博客的每個頁面設置動態連結](https://www.yuan-cong.com/zh-Hant/the-colorado-lounge/dynamic-post-path)
+- [Note | 關於本機IP訪問出現CORS跨域錯誤的問題](https://www.yuan-cong.com/zh-Hant/the-colorado-lounge/cors-error)
+- [Note | Spring Boot插入外部CSS樣式表](https://www.yuan-cong.com/zh-Hant/the-colorado-lounge/insert-css)
+- [Note | 在WebMvcConfiguration介面中配置過濾器（Filter）](https://www.yuan-cong.com/zh-Hant/the-colorado-lounge/filter-in-web-wvc-config)
+- [Writing | 講一講日本考學和求職的心路歷程](https://www.yuan-cong.com/zh-Hant/the-colorado-lounge/before-life-in-japan)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect with me
