@@ -11,11 +11,11 @@
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Note | 前端項目中AWS AppSync的GraphQL API連結](https://www.yuan-cong.com/zh-Hant/the-colorado-lounge/graphql-api-frontend)
 - [Note | 為這個博客添加RSS Feed](https://www.yuan-cong.com/zh-Hant/the-colorado-lounge/rss-feed)
 - [Note | 為這個博客的每個頁面設置動態連結](https://www.yuan-cong.com/zh-Hant/the-colorado-lounge/dynamic-post-path)
 - [Note | 關於本機IP訪問出現CORS跨域錯誤的問題](https://www.yuan-cong.com/zh-Hant/the-colorado-lounge/cors-error)
 - [Note | Spring Boot插入外部CSS樣式表](https://www.yuan-cong.com/zh-Hant/the-colorado-lounge/insert-css)
-- [Note | 在WebMvcConfiguration介面中配置過濾器（Filter）](https://www.yuan-cong.com/zh-Hant/the-colorado-lounge/filter-in-web-wvc-config)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect with me
