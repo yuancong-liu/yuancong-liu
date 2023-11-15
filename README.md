@@ -11,11 +11,11 @@
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Note | Hub.listen不要亂用事件](https://www.yuan-cong.com/zh-Hant/the-colorado-lounge/hub-listen-note)
-- [Note | 前端項目中AWS AppSync的GraphQL API連結](https://www.yuan-cong.com/zh-Hant/the-colorado-lounge/graphql-api-frontend)
-- [Note | 為這個博客添加RSS Feed](https://www.yuan-cong.com/zh-Hant/the-colorado-lounge/rss-feed)
-- [Note | 為這個博客的每個頁面設置動態連結](https://www.yuan-cong.com/zh-Hant/the-colorado-lounge/dynamic-post-path)
-- [Note | 關於本機IP訪問出現CORS跨域錯誤的問題](https://www.yuan-cong.com/zh-Hant/the-colorado-lounge/cors-error)
+- [Note | Hub.listen不要亂用事件](https://www.yuan-cong.com/blog/hub-listen-note)
+- [Note | 前端項目中AWS AppSync的GraphQL API連結](https://www.yuan-cong.com/blog/graphql-api-frontend)
+- [Note | 為這個博客添加RSS Feed](https://www.yuan-cong.com/blog/rss-feed)
+- [Note | 為這個博客的每個頁面設置動態連結](https://www.yuan-cong.com/blog/dynamic-post-path)
+- [Note | 關於本機IP訪問出現CORS跨域錯誤的問題](https://www.yuan-cong.com/blog/cors-error)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect with me
