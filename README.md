@@ -11,11 +11,11 @@
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Note | I finally used algorithms at work - an episode of solving a front-end problem with DFS](https://www.yuancong.space/blog/dfs-first-time)
 - [Note | I published Storybook on GitHub Pages with GitHub Actions using a custom domain](https://www.yuancong.space/blog/storybook-deploy)
 - [Writing | Some perceptions of learning and practising CSS](https://www.yuancong.space/blog/css-perceptions)
 - [Note | Hub.listen不要亂用事件](https://www.yuancong.space/blog/hub-listen-note)
 - [Note | 前端項目中AWS AppSync的GraphQL API連結](https://www.yuancong.space/blog/graphql-api-frontend)
-- [Note | 為這個博客添加RSS Feed](https://www.yuancong.space/blog/rss-feed)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect with me
