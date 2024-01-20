@@ -25,8 +25,8 @@
 [<img align="left" alt="YUANCONG" width="22px" src="img/youtube-brands.svg">][youtube]
 [<img align="left" alt="YUANCONG" width="22px" src="img/envelope-solid.svg">][mail]
 
-[website]: https://www.yuancong.space
-[blog]: https://www.yuan-cong.com/the-colorado-lounge
+[website]: https://www.yuancong.space/
+[blog]: https://www.yuancong.space/blog/
 [linkedin]: https://www.linkedin.com/in/yuancong-liu/
 [youtube]: https://www.youtube.com/channel/UCbTbqyNbV_T_jhdRMSCf5Og
 [mail]: mailto:yuanc129.liu@yahoo.com
