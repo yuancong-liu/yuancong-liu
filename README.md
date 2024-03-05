@@ -3,11 +3,12 @@
 [<img align="center" alt="YUANCONG" width="100%" src="img/title-image.png">][website]
 
 ## About me
-- 🗼 I'm an engineer working at [teamLab][teamlab]
+- 🗼 I'm a frontend engineer working at [teamLab][teamlab]
 - 🎓 I graduated from [University of Glasgow][uofg]
 - 💻 I'm currently working on Front-end knowledge
 - 🎬 I'm a big fan of horror movies
 - 💬 I speak Chinese, English, Japanese and Korean
+- 🎨 I also draw and design - check out my [design porfolio](https://issuu.com/yuancong-liu/docs/e-portfolio/)
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
