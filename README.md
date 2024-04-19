@@ -3,12 +3,12 @@
 [<img align="center" alt="YUANCONG" width="100%" src="img/title-image.png">][website]
 
 ## About me
-- 🗼 I'm a frontend engineer working at [teamLab][teamlab]
+- 🗼 I'm a frontend engineer working at [bitRealty][bri]
 - 🎓 I graduated from [University of Glasgow][uofg]
-- 💻 I'm currently working on Front-end knowledge
+- 💻 I'm keen on CSS - check out my [CodePen][codepen] works
 - 🎬 I'm a big fan of horror movies
 - 💬 I speak Chinese, English, Japanese and Korean
-- 🎨 I also draw and design - check out my [design porfolio](https://issuu.com/yuancong-liu/docs/e-portfolio/)
+- 🎨 I also draw and design - check out my [design porfolio][designs]
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
@@ -31,7 +31,9 @@
 [linkedin]: https://www.linkedin.com/in/yuancong-liu/
 [youtube]: https://www.youtube.com/channel/UCbTbqyNbV_T_jhdRMSCf5Og
 [mail]: mailto:yuanc129.liu@yahoo.com
-[teamlab]: https://www.teamlab.art
+[bri]: https://www.bit-realty.com/
 [uofg]: https://www.gla.ac.uk
+[codepen]: https://codepen.io/yuancong-liu/
+[designs]: https://issuu.com/yuancong-liu/docs/e-portfolio/
 
 <br />
