@@ -12,11 +12,11 @@
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Note | CodePen Works Review 01](https://www.yuancong.space/blog/codepen-works-review-01)
 - [Writing | 聊一聊為什麼跳槽](https://www.yuancong.space/blog/why-i-left-my-job)
 - [Writing | 聊一聊最近工作感受](https://www.yuancong.space/blog/recent-working-perceptions)
 - [Note | Where to put the transition property?](https://www.yuancong.space/blog/place-to-put-transition-property)
 - [Writing | How I changed my reading habit by using RSS tools](https://www.yuancong.space/blog/started-using-rss-tools)
-- [Note | I finally used algorithms at work - an episode of solving a front-end problem with DFS](https://www.yuancong.space/blog/dfs-first-time)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect with me
