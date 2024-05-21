@@ -12,11 +12,11 @@
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Note | I finally understood the at-rule @property!](https://www.yuancong.space/blog/understand-at-rule-property)
 - [Writing | 我為什麼喜歡《牠（小丑回魂）》](https://www.yuancong.space/blog/why-i-like-about-it)
 - [Note | CodePen Works Review 02](https://www.yuancong.space/blog/codepen-works-review-02)
 - [Note | CodePen Works Review 01](https://www.yuancong.space/blog/codepen-works-review-01)
 - [Writing | 聊一聊為什麼跳槽](https://www.yuancong.space/blog/why-i-left-my-job)
-- [Writing | 聊一聊最近工作感受](https://www.yuancong.space/blog/recent-working-perceptions)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect with me
