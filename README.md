@@ -12,11 +12,11 @@
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Writing | 聊一聊女神異聞錄 Vol.2 榮格理論](https://www.yuancong.space/blog/persona-vol2)
 - [Writing | 聊一聊女神異聞錄 Vol.1 神話隱喻](https://www.yuancong.space/blog/persona-vol1)
 - [Note | A Glimpse of State of CSS 2024](https://www.yuancong.space/blog/state-of-css-2024)
 - [Note | I finally understood the at-rule @property!](https://www.yuancong.space/blog/understand-at-rule-property)
 - [Writing | 我為什麼喜歡《牠（小丑回魂）》](https://www.yuancong.space/blog/why-i-like-about-it)
-- [Note | CodePen Works Review 02](https://www.yuancong.space/blog/codepen-works-review-02)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect with me
